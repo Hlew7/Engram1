@@ -47,7 +47,7 @@
             // |  TAB |  !  |  @  |  #  |  $  |  %  |   |  ^  |  &  |  *  |  (  |  )  |  ~   |
             // | CTRL |CAPS |     | UP  |     |     |   |  -  |  =  |  [  |  ]  |  \  |  `   |
             // | SHFT |     | LFT | DWN | RGT |     |   |  _  |  +  |  {  |  }  | "|" | BKSP |
-            //                    | GUI |     | SPC |   | ENT |     | ALT |
+            //                    | GUI |     | SPC |   | ENT |     | ESC |
 
             bindings = <
   &kp TAB      &kp EXCL    &kp AT  &kp HASH   &kp DLLR  &kp PRCNT    &kp CARET   &kp AMPS  &kp KP_MULTIPLY  &kp LPAR  &kp RPAR      &kp TILDE
